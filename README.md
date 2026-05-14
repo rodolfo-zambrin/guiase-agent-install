@@ -5,7 +5,7 @@ Agente autônomo de marketing da Guia-se Maringá. Instala o CMO virtual + 41 sk
 ## Instalação (1 comando)
 
 ```bash
-bash <(curl -sL SEU_LINK_AQUI/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/rodolfo-zambrin/guiase-agent-install/main/install.sh)
 ```
 
 Ou, se você já tem o arquivo:
