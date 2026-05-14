@@ -1,0 +1,8 @@
+{
+  "name": "guiase-cmo",
+  "description": "Agente CMO autônomo da Guia-se Maringá — estratégia de marketing, Meta Ads, Google Ads, criativos, SEO e relatórios",
+  "version": "1.0.0",
+  "skills": [
+    "./"
+  ]
+}
